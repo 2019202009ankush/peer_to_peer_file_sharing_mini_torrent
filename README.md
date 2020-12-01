@@ -1,4 +1,7 @@
 # peer_to_peer_file_sharing_mini_torrent
+# Architechture
+[![Ankush1-Page-3.png](https://i.postimg.cc/3JqKxkVY/Ankush1-Page-3.png)](https://postimg.cc/MvykspzF)
+# Important command
 ## Run Tracker:
 ./tracker tracker_info.txt
    tracker_info.txt - Contains ip, port details of all the trackers
