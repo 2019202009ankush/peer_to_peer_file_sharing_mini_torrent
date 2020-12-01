@@ -1,4 +1,4 @@
-# peer_to_peer_file_sharing_mini_torrent
+# Mini Torrent ( P2P file sharing )
 # Architechture
 [![Ankush1-Page-3.png](https://i.postimg.cc/3JqKxkVY/Ankush1-Page-3.png)](https://postimg.cc/MvykspzF)
 # Important command
